@@ -1,3 +1,3 @@
 # vidyarthi.demo
-This is my first Git Repository
-Author name Navin vidyarthi
+This is my first Git Repository.
+Author name : Navin vidyarthi
